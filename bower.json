@@ -4,5 +4,8 @@
   "main": "./angular-locale_zh-cn.js",
   "authors": [
     "Troland"
-  ]
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
 }
